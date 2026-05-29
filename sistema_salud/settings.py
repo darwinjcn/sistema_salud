@@ -76,12 +76,8 @@ WSGI_APPLICATION = 'sistema_salud.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'salud_db3',
-        'USER': 'yannis_sql',
-        'PASSWORD': '4321',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
