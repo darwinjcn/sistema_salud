@@ -10,15 +10,15 @@ Este proyecto fue diseñado y desarrollado en colaboración por: **Darwin Colmen
 
 | Módulo de Autenticación | Gestión de Usuarios y Roles |
 | --- | --- |
-| `![Login](screenshots/01_login.jpeg)` | `![Usuarios](screenshots/02_gestion_usuarios.jpeg)` |
+| ![Login](https://raw.githubusercontent.com/darwinjcn/sistema_salud/main/screenshots/01_login.jpeg) | ![Usuarios](https://raw.githubusercontent.com/darwinjcn/sistema_salud/main/screenshots/02_gestion_usuarios.jpeg) |
 
 | Control de Citas Médicas | Seguimiento de Visitas |
 | --- | --- |
-| `![Citas](screenshots/04_citas_pendientes.jpeg)` | `![Visitas](screenshots/05_lista_visitas.jpeg)` |
+| ![Citas](https://raw.githubusercontent.com/darwinjcn/sistema_salud/main/screenshots/04_citas_pendientes.jpeg) | ![Visitas](https://raw.githubusercontent.com/darwinjcn/sistema_salud/main/screenshots/05_lista_visitas.jpeg) |
 
 | Sitio Administrativo | Gestión de Empleados |
 | --- | --- |
-| `![Admin](screenshots/06_panel_admin.jpeg)` | `![Empleados](screenshots/03_lista_empleados.jpeg)` |
+| ![Admin](https://raw.githubusercontent.com/darwinjcn/sistema_salud/main/screenshots/06_panel_admin.jpeg) | ![Empleados](https://raw.githubusercontent.com/darwinjcn/sistema_salud/main/screenshots/03_lista_empleados.jpeg) |
 
 ---
 
