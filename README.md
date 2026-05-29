@@ -10,7 +10,7 @@ Este proyecto fue diseñado y desarrollado en colaboración por: **Darwin Colmen
 
 | Módulo de Autenticación | Gestión de Usuarios y Roles |
 |---|---|
-| ![Login](screenshots/01_login.jpg) | ![Usuarios](screenshots/02_gestion_usuarios.jpg) |
+| ![Login](screenshots/01_login.jpeg) | ![Usuarios](screenshots/02_gestion_usuarios.jpg) |
 
 | Control de Citas Médicas | Seguimiento de Visitas |
 |---|---|
